@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_4", "Indexers_4\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_5", "Indexers_5\Indexers_5.csproj", "{4C404B99-D3CE-4825-8779-7A56124F0F24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_6", "Indexers_6\Indexers_6.csproj", "{8F0B445B-320C-467B-BAE7-ED12F8F7284E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4C404B99-D3CE-4825-8779-7A56124F0F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C404B99-D3CE-4825-8779-7A56124F0F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C404B99-D3CE-4825-8779-7A56124F0F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0B445B-320C-467B-BAE7-ED12F8F7284E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0B445B-320C-467B-BAE7-ED12F8F7284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0B445B-320C-467B-BAE7-ED12F8F7284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0B445B-320C-467B-BAE7-ED12F8F7284E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
