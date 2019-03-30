@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_", "Indexers_\Indexers_.csproj", "{3F1539DC-271E-4B5A-A254-F1CD69BA8596}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_2", "Indexer_2\Indexers_2.csproj", "{FEA09E63-E2B4-479A-AC8F-13FDD5F33DBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3F1539DC-271E-4B5A-A254-F1CD69BA8596}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F1539DC-271E-4B5A-A254-F1CD69BA8596}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F1539DC-271E-4B5A-A254-F1CD69BA8596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA09E63-E2B4-479A-AC8F-13FDD5F33DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA09E63-E2B4-479A-AC8F-13FDD5F33DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA09E63-E2B4-479A-AC8F-13FDD5F33DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA09E63-E2B4-479A-AC8F-13FDD5F33DBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
